@@ -12,8 +12,8 @@ twitter:
     username: mahendra # update or delete this
     card: summary_large_image
 
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: mahendra/moonwalk
-remote_theme: mahendra/moonwalk
+#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
+remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
