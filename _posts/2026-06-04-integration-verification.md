@@ -106,8 +106,23 @@ Email Integrations Tools Verification
   
 </div>
 
-<h1>Salesforce</h1>
+<h1>Salesforce Contact</h1>
 <div id="salesforce">
+  
+</div>
+
+<h1>Salesforce Lead</h1>
+<div id="salesforce1">
+  
+</div>
+
+<h1>Salesforce Lead Campaign</h1>
+<div id="lead_campaign">
+  
+</div>
+
+<h1>Salesforce Contact Campaign</h1>
+<div id="contact_campaign">
   
 </div>
 
