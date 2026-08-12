@@ -6,7 +6,7 @@ tags: [forms]
 
 <h1>Forms & Surveys</h1>
 
-<h1>We have three type of Forms</h1>
+<h1>We have Six type of Forms</h1>
 <h2>Survey form</h2>
 <div id="survey">
   
